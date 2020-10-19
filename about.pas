@@ -17,7 +17,7 @@ type
   private
     { PrivateX declarations }
   public
-    { Public declarations }
+    { PublicX declarations }
   end;
 
 var
