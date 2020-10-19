@@ -15,7 +15,7 @@ type
     Copyright: TLabel;
     Comments: TLabel;
   private
-    { Private declarations }
+    { PrivateX declarations }
   public
     { Public declarations }
   end;
